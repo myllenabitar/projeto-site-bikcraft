@@ -1,0 +1,19 @@
+/*global*/
+@import "./global/global.css";
+
+/*utilitários usados em outros locais*/
+@import "./utilitarios/tipografia.css";
+@import "./utilitarios/cores.css";
+@import "./utilitarios/botao.css";
+
+/*menu*/
+@import "./global/header.css";
+
+/*introdução do site*/
+@import "./home/introducao.css";
+
+/*lista de bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
+
+
+
