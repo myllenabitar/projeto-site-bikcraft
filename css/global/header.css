@@ -6,11 +6,8 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    box-sizing: border-box;
-    padding: 20px;
-    max-width:1200px;
-    margin-right:auto;
-    margin-left:auto;
+    padding-top: 20xpx;
+    padding-bottom: 20px;
 }
 .header-menu{
     display:flex;

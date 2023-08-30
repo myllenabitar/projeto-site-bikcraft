@@ -6,12 +6,6 @@
     display:grid;
     grid-template-columns: 1fr 1fr;
     gap:0px 40px;
-    box-sizing: border-box;
-    max-width: 1200px;
-    padding-left:20px;
-    padding-right:20px;
-    margin-left:auto;
-    margin-right:auto;
 
 }
 .introducao-conteudo{
@@ -23,6 +17,7 @@
     border-radius: 4px;
 }
 .introducao img{
+    width:100%;
     height: 100%;
     object-fit: cover;
 }
@@ -31,19 +26,6 @@
 }
 .introducao p{
     margin-bottom: 20px; 
-}
-.introducao a {
-    display:inline-block;
-    padding: 16px 32px;
-    background:linear-gradient(#ffbf00, #f2a50c);
-    border-radius: 4px;
-    box-shadow: 0 1px 2px rgba(0,0,0,.1);
-    text-transform: uppercase;
-    color:#332200;
-    font-size: 18px;
-    line-height: 1.33;
-    font-family: 'Poppins';
-    font-weight: 600;
 }
 @media(max-width: 600px){}
 .introducao a{
