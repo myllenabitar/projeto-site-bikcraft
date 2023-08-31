@@ -13,9 +13,12 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import"./home/parceiros.css";
+@import"./home/depoimento.css";
 
 /*lista de bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
 
+/*pagina de seguros*/
+@import"./seguros/seguros.css";
 
 
