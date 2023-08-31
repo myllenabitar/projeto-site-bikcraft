@@ -45,4 +45,7 @@
     .parceiros li:nth-child(odd){
         border-left: none;
     }
+    .parceiros li{
+        padding: 20px;
+    }
 }
