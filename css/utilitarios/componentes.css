@@ -19,6 +19,7 @@
     font-family: 'Poppins';
     font-weight: 600;
     font:600 1.125rem/1.33 "Poppins", sans-serif;
+    max-width: max-content;
 }
 @media(max-width: 600px){}
 .botao a{
