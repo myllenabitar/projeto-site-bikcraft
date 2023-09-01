@@ -1,13 +1,12 @@
-/*caracteristicas globais do site*/
+/*global*/
 @import "./global/global.css";
+@import "./global/header.css";
+@import "./global/footer.css";
 
-/*utilitários usados em outros locais*/
+/*utilitários usados */
 @import "./utilitarios/tipografia.css";
 @import "./utilitarios/cores.css";
 @import "./utilitarios/componentes.css";
-
-/*menu*/
-@import "./global/header.css";
 
 /*página inicial do site*/
 @import "./home/introducao.css";
