@@ -1,7 +1,7 @@
-.seguros-bg{
-    background: var(--cor11);
+.seguros-bg {
+    background: var(--cor-11);
 }
-.seguros{
+.seguros {
     padding-top:60px;
     padding-bottom:60px;
     display: grid;
