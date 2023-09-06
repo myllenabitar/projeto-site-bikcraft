@@ -20,4 +20,5 @@
 /*pagina de seguros*/
 @import"./seguros/seguros.css";
 
-
+/*paginas dentro do site*/
+@import"./termos/termos.css";
