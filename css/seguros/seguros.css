@@ -8,6 +8,10 @@
     grid-template-columns: 1fr 1fr;
     gap:40px;
     align-items: center;
+    border-radius: 4px;
+}
+#seguros .seguros{
+    padding-top: 0px;
 }
 .seguros h2{
     grid-column: 1/-1;
