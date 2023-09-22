@@ -3,12 +3,13 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/*utilitários usados */
+/*utilitários usados*/
 @import "./utilitarios/tipografia.css";
 @import "./utilitarios/cores.css";
 @import "./utilitarios/componentes.css";
+@import "./utilitarios/formularios.css";
 
-/*página inicial do site*/
+/*página inicial*/
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import"./home/parceiros.css";
@@ -18,13 +19,19 @@
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
-/* bicicleta*/
+/*bicicletas*/
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
 /*pagina de seguros*/
 @import"./seguros/seguros.css";
 @import"./seguros/perguntas.css";
 @import"./seguros/vantagens.css";
 
-/*paginas dentro do site*/
+/*paginas de termos e condições site*/
 @import"./termos/termos.css";
+
+/*pagina de contatos*/
+@import"./contato/contato.css";
+@import"./contato/lojas.css";
+
