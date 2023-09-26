@@ -132,7 +132,7 @@
     width: 16px;
     margin-right: 8px;
 }
-.orcamento-dados input:checked + label + .orcamento-detalhes{
+.orcamento-conteudo input:checked + label + .orcamento-detalhes{
     display: grid;
 }
 @media(max-width: 1200px){
