@@ -1,6 +1,6 @@
 <h1 align="center">PROJETO SITE BIKCRAFT</h1>
 
-<img src="" alt="logo star wars">
+<img src="https://github.com/user-attachments/assets/3875abe1-6516-452b-b93c-e2d994945a8b" alt="logo star wars">
 
 <h2>Badges:</h2>
 Ultima versão: Outubro 2023
